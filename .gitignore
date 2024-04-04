@@ -6,6 +6,8 @@ target
 node
 node_tmp
 npm-debug.log
+.editorconfig
+.eslintrc
 *.iml
 *.tgz
 coverage
