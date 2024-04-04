@@ -51,7 +51,7 @@ const view = (state, {updateState}) => {
 		</div>
 	);
 };
-createCustomElement('x-731823-custom-card', {
+createCustomElement('x-731823-counter', {
 	renderer: {type: snabbdom},
 	view,
 	initialState: {

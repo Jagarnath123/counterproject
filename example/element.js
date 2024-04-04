@@ -1,4 +1,4 @@
-import '../src/x-731823-custom-card';
+import '../src/x-731823-counter';
 
 const el = document.createElement('DIV');
 document.body.appendChild(el);
